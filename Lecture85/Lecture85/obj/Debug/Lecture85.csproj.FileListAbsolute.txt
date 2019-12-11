@@ -1,0 +1,14 @@
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\obj\Debug\Lecture85.csprojAssemblyReference.cache
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\obj\Debug\MainWindow.g.cs
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\obj\Debug\App.g.cs
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\obj\Debug\Lecture85_MarkupCompile.cache
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\obj\Debug\Lecture85_MarkupCompile.lref
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\bin\Debug\Lecture85.exe.config
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\bin\Debug\Lecture85.exe
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\bin\Debug\Lecture85.pdb
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\obj\Debug\MainWindow.baml
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\obj\Debug\Lecture85.g.resources
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\obj\Debug\Lecture85.Properties.Resources.resources
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\obj\Debug\Lecture85.csproj.GenerateResource.cache
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\obj\Debug\Lecture85.exe
+D:\ArFei-Hub\Test-CSharp\Lecture85\Lecture85\obj\Debug\Lecture85.pdb
