@@ -1,0 +1,14 @@
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\bin\Debug\Lecture86.exe.config
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\bin\Debug\Lecture86.exe
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\bin\Debug\Lecture86.pdb
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\obj\Debug\Lecture86.csprojAssemblyReference.cache
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\obj\Debug\MainWindow.g.cs
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\obj\Debug\App.g.cs
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\obj\Debug\Lecture86_MarkupCompile.cache
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\obj\Debug\Lecture86_MarkupCompile.lref
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\obj\Debug\MainWindow.baml
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\obj\Debug\Lecture86.g.resources
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\obj\Debug\Lecture86.Properties.Resources.resources
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\obj\Debug\Lecture86.csproj.GenerateResource.cache
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\obj\Debug\Lecture86.exe
+D:\ArFei-Hub\Test-CSharp\Lecture86\Lecture86\obj\Debug\Lecture86.pdb
